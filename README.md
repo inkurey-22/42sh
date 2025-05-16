@@ -53,7 +53,7 @@ make
 
 ---
 
-## Contributors
+## 👥 Contributors
 | Name            | GitHub Profile                      |
 |-----------------|-------------------------------------|
 | Joseph B.       | [@jobirck](https://github.com/jobirck) |
