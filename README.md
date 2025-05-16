@@ -57,12 +57,7 @@ make
 | Name            | GitHub Profile                      |
 |-----------------|-------------------------------------|
 | Joseph B.       | [@jobirck](https://github.com/jobirck) |
-|-----------------|-------------------------------------|
 | Lucas L.        | [@LucasLhomme](https://github.com/lucaslhomme) |
-|-----------------|-------------------------------------|
 | Jawed L.        | [@JawedLahrouri](https://github.com/JawedLahrouri) |
-|-----------------|-------------------------------------|
 | Grégoire F.     | [@graigware](https://github.com/graigware) |
-|-----------------|-------------------------------------|
 | Théophile R.    | [@inkurey-22](https://github.com/inkurey-22) |
-|-----------------|-------------------------------------|
